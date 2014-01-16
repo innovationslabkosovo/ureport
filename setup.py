@@ -25,7 +25,7 @@ setup(
     scripts = [],
 
     description='Ureport deployment repository for ureport.ug',
-    long_description=open('README').read(),
+    #long_description=open('README').read(),
     author='UNICEF Uganda',
     author_email='mossplix@gmail.com',
 
